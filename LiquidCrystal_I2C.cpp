@@ -1,6 +1,6 @@
 // Based on the work by DFRobot
 
-#include "LiquidCrystal_I2C.h"
+//#include "LiquidCrystal_I2C.h"
 #include <inttypes.h>
 #include "Arduino.h"
 #include "Wire.h"
