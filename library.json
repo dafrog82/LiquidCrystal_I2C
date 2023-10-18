@@ -10,8 +10,8 @@
   "frameworks": "arduino",
   "platforms":
   [
-    "atmelavr"
-    "espressif8266"
+    "atmelavr",
+    "espressif8266",
     "espressif32"
   ]
 }
