@@ -11,5 +11,7 @@
   "platforms":
   [
     "atmelavr"
+    "espressif8266"
+    "espressif32"
   ]
 }
